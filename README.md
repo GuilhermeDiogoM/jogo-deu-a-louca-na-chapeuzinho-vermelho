@@ -1,5 +1,4 @@
 # Jogo sobre o filme Deu a Louca na Chapeuzinho Vermelho
-Trabalho sobre o filme Deu a Louca na Chapeuzinho.
 
 Produzido por: Guilherme Diogo de Moraes <br> Kevin Cavalcante Silva
 
