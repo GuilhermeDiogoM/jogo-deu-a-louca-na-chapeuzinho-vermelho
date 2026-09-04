@@ -1,6 +1,8 @@
 # Jogo sobre o filme Deu a Louca na Chapeuzinho Vermelho
 
-Produzido por: Guilherme Diogo de Moraes <br> Kevin Cavalcante Silva
+Produzido por: <br>
+Guilherme Diogo de Moraes <br> 
+Kevin Cavalcante Silva
 
 Este repositório possui uma wiki que contém duas páginas:
 
